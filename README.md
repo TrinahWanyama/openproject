@@ -4,9 +4,21 @@
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/opf/openproject/dev)
 [![Github Tests](https://github.com/opf/openproject/actions/workflows/test-core.yml/badge.svg?branch=dev)](https://github.com/opf/openproject/actions/workflows/test-core.yml)
 
-**We empower teams to achieve great things together for the good of society.**
 
-OpenProject is a web-based project management software. Use OpenProject to manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. [Read more about the OpenProject GitHub integration](https://www.openproject.org/docs/system-admin-guide/integrations/github-integration/).
+We empower teams to achieve impact-driven results—together, for the good of society.
+
+OpenProject is a web-based project-management tool for organizing work, collaborating remotely, and managing tasks effectively. Use it to coordinate projects, timelines, budgets, and much more—all in one place.
+
+### Getting Started
+
+1. Install prerequisites (Ruby, Node.js, PostgreSQL)
+2. Clone the repo: `git clone https://github.com/opf/openproject.git`
+3. Install dependencies: `bundle install && yarn install`
+
+For full setup instructions, check out the [Development Guide](docs/development/README.md).
+
+
+[Read more about the OpenProject GitHub integration](https://www.openproject.org/docs/system-admin-guide/integrations/github-integration/).
 
 ![Screenshot of OpenProject, showing the GitHub tab on a work package](GitHub-tab-new.png)
 
